@@ -1,1 +1,2 @@
 This is my Sample folder in which a sub folder called sample1 and in which a file name "Hello.txt" located.
+This is edited on github where i upload this file through git 
